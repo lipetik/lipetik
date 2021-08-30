@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi , I'm Filipe from Brazil , I'm a college student finishing my major in physics at UFES and I have a lot of interest on computational physics. For the last 3 years I have been focusing mainly on doing simulations with Quantum Espresso to study 2D materials properties and it's possible applications. Currently , I'm studying python and trying to improve on it.
+Hi , I'm Filipe from Brazil , I'm a college student finishing my major in physics at UFES and I have a lot of interest on computational physics. For the last 3 years I have been focusing mainly on doing simulations with the  Quantum Espresso package to study 2D materials properties and it's possible applications. Currently , I'm studying python and trying to improve on it.
 <!--
 **lipetik/lipetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
