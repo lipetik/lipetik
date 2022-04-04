@@ -20,6 +20,8 @@
 
 ##
 
+
+
 <div> 
   <a href = "mailto:filipecalau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-gon%C3%A7alves-jacinto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -30,7 +32,7 @@
 
 <!--
 **lipetik/lipetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://user-images.githubusercontent.com/69605680/161610588-821c8251-0ce4-4479-ad55-63a6a4830717.png" width="1100" height="45">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
