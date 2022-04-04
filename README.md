@@ -9,6 +9,9 @@
 <h1> <a href="https://github.com/lipetik/portfolio"> Portfolio </h1> </a>
 </div> 
 
+ <p></p>
+    <br>
+<p></p> 
   
 <div align="left">
   <a href="https://github.com/lipetik">
