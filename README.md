@@ -45,6 +45,12 @@ Here are some ideas to get you started:
 
 # ![ezgif com-gif-maker](https://user-images.githubusercontent.com/69605680/161603933-251e088f-3b8f-4ca1-91a5-d9d5fe15061e.gif) [Portfolio](https://github.com/lipetik/portfolio) 
 
+<div align="left">
+<a href="https://github.com/lipetik/portfolio">
+<img align="left" img src="https://user-images.githubusercontent.com/69605680/161603933-251e088f-3b8f-4ca1-91a5-d9d5fe15061e.gif" alt=lighbulb width="70" height="70"> 
+<h1> <a href="https://github.com/lipetik/portfolio"> Portfolio </h1> </a>
+</div> 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
