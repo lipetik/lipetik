@@ -5,11 +5,8 @@
 
 # [![ezgif com-gif-maker](https://user-images.githubusercontent.com/69605680/161603933-251e088f-3b8f-4ca1-91a5-d9d5fe15061e.gif)](https://github.com/lipetik/portfolio) [Portfolio](https://github.com/lipetik/portfolio) 
  
- <p></p>
-    <br>
-<p></p> 
   
-<div align="left">
+<div align="center">
   <a href="https://github.com/lipetik">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lipetik&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipetik&layout=compact&langs_count=7&theme=dark"/>
