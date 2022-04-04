@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="justify">
-<p>I'm Filipe from Brazil, I'm a college student and  recently finished major in physics in physics at UFES and I have a lot of interest on computational physics. For the last three years I have been focusing mainly on doing simulations with the  Quantum Espresso package to study 2D materials properties and it's possible applications. Currently, I'm studying python and data science and trying to improve on it.</center></p>
+<p>I'm Filipe from Brazil, I'm a college student and  recently finished my major in physics in physics at UFES and I have a lot of interest on computational physics. For the last three years I have been focusing mainly on doing simulations with the  Quantum Espresso package to study 2D materials properties and it's possible applications. Currently, I'm studying python and data science and trying to improve on it.</center></p>
 </div>
 
 # [Portfolio](https://github.com/lipetik/portfolio)
