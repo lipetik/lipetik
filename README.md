@@ -9,10 +9,6 @@
 <h1> <a href="https://github.com/lipetik/portfolio"> Portfolio </h1> </a>
 </div> 
 
-
-
-
-
 <div align="center">
   <a href="https://github.com/lipetik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipetik&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
