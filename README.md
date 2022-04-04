@@ -13,6 +13,8 @@ Hi , I'm Filipe from Brazil , I'm a college student finishing my major in physic
   <img align="center" alt="Latex" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg">
 </div>
 
+##
+
 <div> 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:filipecalau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
