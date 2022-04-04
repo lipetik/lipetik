@@ -1,5 +1,12 @@
 ### Hi there 👋
 Hi , I'm Filipe from Brazil , I'm a college student finishing my major in physics at UFES and I have a lot of interest on computational physics. For the last 3 years I have been focusing mainly on doing simulations with the  Quantum Espresso package to study 2D materials properties and it's possible applications. Currently , I'm studying python and trying to improve on it.
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipetik&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipetik&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <!--
 **lipetik/lipetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
